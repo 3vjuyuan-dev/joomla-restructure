@@ -1,0 +1,17 @@
+{
+    "name": "joobobo/joomla-cms",
+    "type": "project",
+    "description": "Resturected Joomla CMS with composer",
+    "keywords": ["joomla", "cms"],
+    "homepage": "https://github.com/joomla/joomla-cms",
+    "license": "GPL-2.0+",
+    "support": {
+        "issues":"https://issues.joomla.org",
+        "irc":"http://irc.lc/freenode/joomla/",
+        "forum":"http://forum.joomla.org/",
+        "docs":"https://docs.joomla.org"
+    },
+    "require": {
+        "php": ">=5.6.*"
+    }
+}
